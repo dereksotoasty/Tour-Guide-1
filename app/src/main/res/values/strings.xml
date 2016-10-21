@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="hello_blank_fragment">Welcome To The Tour!</string>
+
+    <string-array name="cities">
+        <item>Stockholm, Sweden</item>
+        <item>Ishigaki Island, Japan</item>
+        <item>Queenstown, New Zealand</item>
+        <item>Puerto Vallarta, Mexico</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>The Swedish capital of Stockholm is an archipelago that consists of 14 islands, with ferry services and over 50 bridges interconnecting them. Tourist attractions include places like the Gamla Stan and Djurgården island. Gamla Stan is the oldest part of Stockholm with its streets lined with cobblestone. The Kungliga Slottet Royal Palace, the Nobel Museum, and the 13th century Storkyrkan Cathedral all call Gamla Stan. Djurgården island’s main attraction is the Skansen open air museum, that contains more than 100 rebuilt homes from the 16th century.</item>
+        <item>Ishigaki Island is known for its beaches and the snorkeling, diving, surfing and other water sports take place off them. The waters of the Iriomote-Ishigaki National Park are home to a rare species of blue coral in the Shiraho Reef. Tourists also get the unique opportunity to dive with manta rays. Island Ishigaki is the commercial centre of the Yeayama Islands.</item>
+        <item>Queenstown is situated on the shore of Lake Wakatipu on New Zealand’s southern island. The area is known for extreme activities like skiing, mountain biking, zip lining, and kayaking. Queenstown’s Skyline gondola takes visitors up to the top of Bob’s peak, where there is an extensive network of both hiking and biking trails. The biking trails traverse Bob’s peak passing various lakes, rivers, and vineyards. Hiking trails take you into the backcountry winding in-between the glacial landscapes of Fiordlands.</item>
+        <item>Puerto Vallarta is a sea side Mexican town located on the shores of the Pacific Ocean. Puerto Vallarta is famous for its surprisingly warm beaches like Playa Camarones, water sports, and its nightlife. Tourist activates in Puerto Vallarta include snorkeling, tequila tours, zip lining, touring and shopping in the old village, and parasailing.</item>
+    </string-array>
+</resources>
